@@ -1,0 +1,5 @@
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net6.0\SeeSharp11Demo.csproj.AssemblyReference.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net6.0\SeeSharp11Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net6.0\SeeSharp11Demo.AssemblyInfoInputs.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net6.0\SeeSharp11Demo.AssemblyInfo.cs
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net6.0\SeeSharp11Demo.csproj.CoreCompileInputs.cache

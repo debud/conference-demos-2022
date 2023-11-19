@@ -1,0 +1,15 @@
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\bin\Debug\net7.0\SeeSharp11Demo.exe
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\bin\Debug\net7.0\SeeSharp11Demo.deps.json
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\bin\Debug\net7.0\SeeSharp11Demo.runtimeconfig.json
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\bin\Debug\net7.0\SeeSharp11Demo.dll
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\bin\Debug\net7.0\SeeSharp11Demo.pdb
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.csproj.AssemblyReference.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.AssemblyInfoInputs.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.AssemblyInfo.cs
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.csproj.CoreCompileInputs.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.dll
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\refint\SeeSharp11Demo.dll
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.pdb
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\SeeSharp11Demo.genruntimeconfig.cache
+C:\Users\DenisaBud\source\repos\SeeSharp11Demo\SeeSharp11Demo\obj\Debug\net7.0\ref\SeeSharp11Demo.dll
